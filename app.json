@@ -1,5 +1,5 @@
 {
-    "name": "🎭🇱🇰 𝙰𝙻𝙿𝙷𝙰 🇱🇰🎭 WhatsApp User Bot v5.0.0",
+    "name": "🎭🇱🇰 𝙰𝙻𝙿𝙷𝙰 🇱🇰🎭 VIP WhatsApp User Bot v1.0.0",
     "description": "World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot",
     "logo": "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg",
     "keywords": ["Achi Bro lk | PG", "ALPHA"],
@@ -196,7 +196,7 @@
         "CAPTION": {
             "description": "LOGO MAKER CAPTION  මෙහි ඔබගෙ බොට්ගෙ නම යොදන්න. ",
             "required": true,
-            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 🎭🇱🇰 𝙰𝙻𝙿𝙷𝙰 🇱🇰🎭 │"
+            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 🎭🇱🇰 𝙰𝙻𝙿𝙷𝙰 🇱🇰🎭 VIP v1 │"
         },
         "COFFEEHOUSE_API_KEY": {
             "description": "Give it up. We give you this. කිසිවක් වෙනස් නොකරන්න. ",
